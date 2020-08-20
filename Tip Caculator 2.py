@@ -17,7 +17,7 @@ format_tip = "%.2f" % tip_amount
 
 format_bill = "%.2f" % total_amount
 
-format_total_bill = float(format_tip) + float(format_bill)
+format_total_bill =  float(format_tip) + float(format_bill)
 
 
 
