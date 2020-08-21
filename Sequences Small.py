@@ -38,7 +38,7 @@ num_positive = []
 
 mix_numbers_2 = [-1, -2, 0 , 1, 2, 31]
 
-for positive_num in mix_numbers:
+for positive_num in mix_numbers_2:
   if positive_num >= 0:
     (num_positive.append(positive_num))
 print('Numbers that are positive are: ', num_positive)
